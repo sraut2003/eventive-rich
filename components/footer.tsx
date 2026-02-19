@@ -36,7 +36,7 @@ export function Footer() {
             </p>
             <div className="flex gap-3">
               <a
-                href="https://www.instagram.com/eventiverich"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex size-10 items-center justify-center rounded-full bg-background/10 transition-colors hover:bg-primary hover:text-primary-foreground"
@@ -108,11 +108,11 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3 text-sm text-background/70">
                 <MapPin size={16} className="mt-0.5 shrink-0 text-primary" />
-                <span>123 Celebration Avenue, Event District, City 10001</span>
+                <span>Nagpur, Maharashtra, India</span>
               </li>
               <li>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+XXXXXXXXXX"
                   className="flex items-center gap-3 text-sm text-background/70 transition-colors hover:text-primary"
                 >
                   <Phone size={16} className="shrink-0 text-primary" />

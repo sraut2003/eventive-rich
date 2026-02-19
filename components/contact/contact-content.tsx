@@ -20,8 +20,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    detail: "+91 9876543210",
-    href: "tel:+919876543210",
+    detail: "+91 XXXXXXXXXX",
+    href: "tel:+91XXXXXXXXXX",
   },
   {
     icon: Mail,
@@ -32,7 +32,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Office",
-    detail: "Pune, Maharashtra, India",
+    detail: "Nagpur, Maharashtra, India",
     href: null,
   },
   { icon: Clock, title: "Hours", detail: "Mon - Sat: 9AM - 7PM", href: null },
