@@ -35,7 +35,7 @@ const contactInfo = [
     detail: "Nagpur, Maharashtra, India",
     href: null,
   },
-  { icon: Clock, title: "Hours", detail: "Mon - Sat: 9AM - 7PM", href: null },
+  { icon: Clock, title: "Hours", detail: "Mon - Sat: 10AM - 7PM", href: null },
 ];
 
 const eventTypes = [
