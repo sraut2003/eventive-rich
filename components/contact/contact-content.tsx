@@ -26,8 +26,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    detail: "hello@eventiverich.com",
-    href: "mailto:hello@eventiverich.com",
+    detail: "hello@eventive-rich.com",
+    href: "mailto:hello@eventive-rich.com",
   },
   {
     icon: MapPin,
